@@ -10,7 +10,7 @@ This project was developed as a collaborative team effort. Working in a team all
 * **Makhabbat** — [Role, e.g., Data Collection & API Integration]
 * **Nurila** — [Role, e.g., Machine Learning & Vectorization]
 * **Zhaniya** — [Role, e.g., UI Development & Streamlit Interface]
-* 
+
 ### 1. Data collection (TMDb API)
 * Automated retrieval of over 2,000 movies using the TMDb API.
 * Handled pagination and extracted metadata including titles, genres, ratings, and poster URLs.
